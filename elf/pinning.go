@@ -9,7 +9,7 @@ import (
 	"strings"
 	"unsafe"
 
-	"github.com/iovisor/gobpf/pkg/bpffs"
+	"github.com/walrobi2/gobpf/pkg/bpffs"
 )
 
 /*
